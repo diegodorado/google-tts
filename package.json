@@ -1,0 +1,32 @@
+{
+  "name": "google-tts",
+  "version": "1.0.0",
+  "description": "Use google translate as a text-to-speech system",
+  "main": "index.js",
+  "dependencies": {
+    "download": "^6.2.5",
+    "google-tts-api": "0.0.2",
+    "lame": "^1.2.4",
+    "player": "^0.6.1",
+    "speaker": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegodorado/google-tts.git"
+  },
+  "keywords": [
+    "tts",
+    "google",
+    "translate"
+  ],
+  "author": "diegodorado@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/diegodorado/google-tts/issues"
+  },
+  "homepage": "https://github.com/diegodorado/google-tts#readme"
+}
